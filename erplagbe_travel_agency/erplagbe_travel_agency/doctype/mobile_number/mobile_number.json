@@ -1,34 +1,39 @@
 {
- "actions": [],
- "allow_rename": 1,
- "creation": "2025-09-22 07:44:55.981469",
- "doctype": "DocType",
- "editable_grid": 1,
- "engine": "InnoDB",
- "field_order": [
-  "mobile_number"
- ],
- "fields": [
-  {
-   "fieldname": "mobile_number",
-   "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "Mobile Number",
-   "reqd": 1
-  }
- ],
- "grid_page_length": 50,
- "index_web_pages_for_search": 1,
- "istable": 1,
- "links": [],
- "modified": "2025-09-22 07:45:18.898389",
- "modified_by": "Administrator",
- "module": "Erplagbe Travel Agency",
- "name": "Mobile Number",
- "owner": "Administrator",
- "permissions": [],
- "row_format": "Dynamic",
- "sort_field": "creation",
- "sort_order": "DESC",
- "states": []
+  "actions": [],
+  "allow_rename": 1,
+  "creation": "2025-09-22 07:44:55.981469",
+  "doctype": "DocType",
+  "editable_grid": 1,
+  "engine": "InnoDB",
+  "field_order": ["mobile_number", "whatsapp"],
+  "fields": [
+    {
+      "fieldname": "mobile_number",
+      "fieldtype": "Data",
+      "in_list_view": 1,
+      "label": "Mobile Number",
+      "reqd": 1
+    },
+    {
+      "default": "0",
+      "fieldname": "whatsapp",
+      "fieldtype": "Check",
+      "in_list_view": 1,
+      "label": "Whatsapp"
+    }
+  ],
+  "grid_page_length": 50,
+  "index_web_pages_for_search": 1,
+  "istable": 1,
+  "links": [],
+  "modified": "2025-09-23 08:12:25.973046",
+  "modified_by": "Administrator",
+  "module": "Erplagbe Travel Agency",
+  "name": "Mobile Number",
+  "owner": "Administrator",
+  "permissions": [],
+  "row_format": "Dynamic",
+  "sort_field": "creation",
+  "sort_order": "DESC",
+  "states": []
 }
