@@ -1,0 +1,560 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-11 12:28:56.308970",
+  "name": "HR",
+  "role_profile": "HR",
+  "roles": [
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "Leave Approver"
+   },
+   {
+    "role": "Expense Approver"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-11 00:23:36.396760",
+  "name": "Inventory",
+  "role_profile": "Inventory",
+  "roles": [
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Stock Manager"
+   },
+   {
+    "role": "Item Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-11 00:23:36.405614",
+  "name": "Manufacturing",
+  "role_profile": "Manufacturing",
+  "roles": [
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Manufacturing User"
+   },
+   {
+    "role": "Manufacturing Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-11 00:23:36.411520",
+  "name": "Accounts",
+  "role_profile": "Accounts",
+  "roles": [
+   {
+    "role": "Accounts User"
+   },
+   {
+    "role": "Accounts Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-11 00:23:36.415609",
+  "name": "Sales",
+  "role_profile": "Sales",
+  "roles": [
+   {
+    "role": "Sales User"
+   },
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Sales Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-11 00:23:36.420828",
+  "name": "Purchase",
+  "role_profile": "Purchase",
+  "roles": [
+   {
+    "role": "Item Manager"
+   },
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Purchase User"
+   },
+   {
+    "role": "Purchase Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-10-12 15:14:34.242605",
+  "name": "Central Branch Manager",
+  "role_profile": "Central Branch Manager",
+  "roles": [
+   {
+    "role": "Leave Approver"
+   },
+   {
+    "role": "Expense Approver"
+   },
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "Loan Manager"
+   },
+   {
+    "role": "Loan LOS User"
+   },
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Stock Manager"
+   },
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Purchase User"
+   },
+   {
+    "role": "Purchase Master Manager"
+   },
+   {
+    "role": "Purchase Manager"
+   },
+   {
+    "role": "Accounts Manager"
+   },
+   {
+    "role": "Accounts User"
+   },
+   {
+    "role": "Item Manager"
+   },
+   {
+    "role": "Loan Underwriter"
+   },
+   {
+    "role": "Loan Processor"
+   },
+   {
+    "role": "Loan Officer"
+   },
+   {
+    "role": "Loan Appraiser"
+   },
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Academics User"
+   },
+   {
+    "role": "Analytics"
+   },
+   {
+    "role": "Auditor"
+   },
+   {
+    "role": "Bank Manager"
+   },
+   {
+    "role": "Blog Manager"
+   },
+   {
+    "role": "Customer"
+   },
+   {
+    "role": "Dashboard Manager"
+   },
+   {
+    "role": "Delivery Manager"
+   },
+   {
+    "role": "Delivery User"
+   },
+   {
+    "role": "Employee Self Service"
+   },
+   {
+    "role": "Fleet Manager"
+   },
+   {
+    "role": "Fulfillment User"
+   },
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "Inbox User"
+   },
+   {
+    "role": "Interviewer"
+   },
+   {
+    "role": "Knowledge Base Contributor"
+   },
+   {
+    "role": "Knowledge Base Editor"
+   },
+   {
+    "role": "Maintenance Manager"
+   },
+   {
+    "role": "Maintenance User"
+   },
+   {
+    "role": "Manufacturing Manager"
+   },
+   {
+    "role": "Manufacturing User"
+   },
+   {
+    "role": "Marketing Manager"
+   },
+   {
+    "role": "Newsletter Manager"
+   },
+   {
+    "role": "Prepared Report User"
+   },
+   {
+    "role": "Projects Manager"
+   },
+   {
+    "role": "Projects User"
+   },
+   {
+    "role": "Quality Manager"
+   },
+   {
+    "role": "Report Manager"
+   },
+   {
+    "role": "Sales Manager"
+   },
+   {
+    "role": "Sales Master Manager"
+   },
+   {
+    "role": "Sales User"
+   },
+   {
+    "role": "Script Manager"
+   },
+   {
+    "role": "Supplier"
+   },
+   {
+    "role": "Support Team"
+   },
+   {
+    "role": "Translator"
+   },
+   {
+    "role": "Website Manager"
+   },
+   {
+    "role": "Workspace Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-10-12 15:14:27.836981",
+  "name": "Branch Manager",
+  "role_profile": "Branch Manager",
+  "roles": [
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "Loan Manager"
+   },
+   {
+    "role": "Sales Manager"
+   },
+   {
+    "role": "Leave Approver"
+   },
+   {
+    "role": "Expense Approver"
+   },
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Accounts User"
+   },
+   {
+    "role": "Accounts Manager"
+   },
+   {
+    "role": "Blog Manager"
+   },
+   {
+    "role": "Bank Manager"
+   },
+   {
+    "role": "Branch User"
+   },
+   {
+    "role": "Delivery User"
+   },
+   {
+    "role": "Delivery Manager"
+   },
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Stock Manager"
+   },
+   {
+    "role": "Sales User"
+   },
+   {
+    "role": "Sales Master Manager"
+   },
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Loan Appraiser"
+   },
+   {
+    "role": "Loan LOS User"
+   },
+   {
+    "role": "Loan Officer"
+   },
+   {
+    "role": "Loan Processor"
+   },
+   {
+    "role": "Loan Underwriter"
+   },
+   {
+    "role": "Academics User"
+   },
+   {
+    "role": "Analytics"
+   },
+   {
+    "role": "Auditor"
+   },
+   {
+    "role": "Customer"
+   },
+   {
+    "role": "Dashboard Manager"
+   },
+   {
+    "role": "Employee Self Service"
+   },
+   {
+    "role": "Fleet Manager"
+   },
+   {
+    "role": "Fulfillment User"
+   },
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "Inbox User"
+   },
+   {
+    "role": "Interviewer"
+   },
+   {
+    "role": "Item Manager"
+   },
+   {
+    "role": "Knowledge Base Contributor"
+   },
+   {
+    "role": "Knowledge Base Editor"
+   },
+   {
+    "role": "Maintenance Manager"
+   },
+   {
+    "role": "Maintenance User"
+   },
+   {
+    "role": "Manufacturing Manager"
+   },
+   {
+    "role": "Manufacturing User"
+   },
+   {
+    "role": "Marketing Manager"
+   },
+   {
+    "role": "Newsletter Manager"
+   },
+   {
+    "role": "Prepared Report User"
+   },
+   {
+    "role": "Projects Manager"
+   },
+   {
+    "role": "Projects User"
+   },
+   {
+    "role": "Purchase Manager"
+   },
+   {
+    "role": "Purchase Master Manager"
+   },
+   {
+    "role": "Purchase User"
+   },
+   {
+    "role": "Quality Manager"
+   },
+   {
+    "role": "Report Manager"
+   },
+   {
+    "role": "Script Manager"
+   },
+   {
+    "role": "Supplier"
+   },
+   {
+    "role": "Support Team"
+   },
+   {
+    "role": "Translator"
+   },
+   {
+    "role": "Website Manager"
+   },
+   {
+    "role": "Workspace Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-10-12 16:31:45.380174",
+  "name": "Branch User",
+  "role_profile": "Branch User",
+  "roles": [
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "Loan LOS User"
+   },
+   {
+    "role": "Bank Manager"
+   },
+   {
+    "role": "Sales Manager"
+   },
+   {
+    "role": "Sales Master Manager"
+   },
+   {
+    "role": "Sales User"
+   },
+   {
+    "role": "Branch User"
+   },
+   {
+    "role": "Employee Self Service"
+   },
+   {
+    "role": "Accounts Manager"
+   },
+   {
+    "role": "Accounts User"
+   },
+   {
+    "role": "Delivery User"
+   },
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "Loan Appraiser"
+   },
+   {
+    "role": "Loan Manager"
+   },
+   {
+    "role": "Loan Officer"
+   },
+   {
+    "role": "Stock Manager"
+   },
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Website Manager"
+   },
+   {
+    "role": "Workspace Manager"
+   },
+   {
+    "role": "Delivery Manager"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "Loan Processor"
+   },
+   {
+    "role": "Loan Underwriter"
+   },
+   {
+    "role": "Script Manager"
+   },
+   {
+    "role": "Translator"
+   }
+  ]
+ }
+]

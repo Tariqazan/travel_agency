@@ -1,0 +1,1199 @@
+[
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": "web",
+  "label": "Website CMS",
+  "link_to": "Website CMS",
+  "link_type": "DocType",
+  "modified": "2025-10-12 12:12:16.084416",
+  "name": "Website CMS",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 200,
+  "url": "/app/website-cms"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": "file",
+  "label": "Blog",
+  "link_to": "Blog",
+  "link_type": "DocType",
+  "modified": "2025-10-12 12:13:13.032339",
+  "name": "Blog",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 201,
+  "url": "/app/blog/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Customer Portal",
+  "link_to": "customer-portal",
+  "link_type": "Page",
+  "modified": "2025-10-12 13:56:10.112781",
+  "name": "Customer Portal",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Customer"
+   },
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 300,
+  "url": "/app/customer-portal"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Dashboard",
+  "link_to": null,
+  "link_type": "",
+  "modified": "2025-10-12 15:59:04.487108",
+  "name": "Dashboard",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 0,
+  "url": "/app/dashboard"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": "retail",
+  "label": "Branch",
+  "link_to": "Branch",
+  "link_type": "DocType",
+  "modified": "2025-10-12 15:59:15.295060",
+  "name": "Branch",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/branch/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": "hr",
+  "label": "HR Management",
+  "link_to": null,
+  "link_type": "",
+  "modified": "2025-10-12 15:59:27.804486",
+  "name": "HR Management",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 3,
+  "url": null
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Employee",
+  "link_to": "Employee",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:00:00.706753",
+  "name": "Employee",
+  "parent1": "HR Management",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 4,
+  "url": "/app/employee/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": "file",
+  "label": "Leaves",
+  "link_to": null,
+  "link_type": "",
+  "modified": "2025-10-12 16:00:12.006273",
+  "name": "Leaves",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 4,
+  "url": null
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Leave Type",
+  "link_to": "Leave Type",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:00:22.968861",
+  "name": "Leave Type",
+  "parent1": "Leaves",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 1,
+  "url": "/app/leave-type/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Leave Policy",
+  "link_to": "Leave Policy",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:00:35.017940",
+  "name": "Leave Policy",
+  "parent1": "Leaves",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/leave-policy/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Leave Policy Assignment",
+  "link_to": "Leave Policy Assignment",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:00:44.065663",
+  "name": "Leave Policy Assignment",
+  "parent1": "Leaves",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 3,
+  "url": "/app/leave-policy-assignment/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Holiday List",
+  "link_to": "Holiday List",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:00:52.535089",
+  "name": "Holiday List",
+  "parent1": "Leaves",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 0,
+  "url": "/app/holiday-list/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Leave Allocation",
+  "link_to": "Leave Allocation",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:01:00.852531",
+  "name": "Leave Allocation",
+  "parent1": "Leaves",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 5,
+  "url": "/app/leave-allocation/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Leave Application",
+  "link_to": "Leave Application",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:01:07.998389",
+  "name": "Leave Application",
+  "parent1": "Leaves",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 6,
+  "url": "/app/leave-application/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Employee Leave Balance Summary",
+  "link_to": "Employee Leave Balance Summary",
+  "link_type": "Report",
+  "modified": "2025-10-12 16:04:32.843026",
+  "name": "Employee Leave Balance Summary",
+  "parent1": "Leaves",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 7,
+  "url": "/app/query-report/Employee Leave Balance Summary"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": "share",
+  "label": "Shift Management",
+  "link_to": null,
+  "link_type": "",
+  "modified": "2025-10-12 16:04:26.366270",
+  "name": "Shift Management",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 4,
+  "url": null
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Shift Location",
+  "link_to": "Shift Location",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:04:19.175589",
+  "name": "Shift Location",
+  "parent1": "Shift Management",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 1,
+  "url": "/app/shift-location/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Shift Assignment Tool",
+  "link_to": "Shift Assignment Tool",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:04:11.942595",
+  "name": "Shift Assignment Tool",
+  "parent1": "Shift Management",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 3,
+  "url": "/app/shift-assignment-tool"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Shift Assignment",
+  "link_to": "Shift Assignment",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:04:03.632281",
+  "name": "Shift Assignment",
+  "parent1": "Shift Management",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/shift-assignment/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Shift Type",
+  "link_to": "Shift Type",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:03:52.651018",
+  "name": "Shift Type",
+  "parent1": "Shift Management",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/shift-type/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": "accounting",
+  "label": "Payroll",
+  "link_to": null,
+  "link_type": "",
+  "modified": "2025-10-12 16:03:36.724173",
+  "name": "Payroll",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 6,
+  "url": null
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Salary Component",
+  "link_to": "Salary Component",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:03:29.875676",
+  "name": "Salary Component",
+  "parent1": "Payroll",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 0,
+  "url": "/app/salary-component/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Salary Structure",
+  "link_to": "Salary Structure",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:03:22.033344",
+  "name": "Salary Structure",
+  "parent1": "Payroll",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 1,
+  "url": "/app/salary-structure/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Payroll Entry",
+  "link_to": "Payroll Entry",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:03:13.098248",
+  "name": "Payroll Entry",
+  "parent1": "Payroll",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 1,
+  "url": "/app/payroll-entry/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Salary Slip",
+  "link_to": "Salary Slip",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:03:05.325599",
+  "name": "Salary Slip",
+  "parent1": "Payroll",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 3,
+  "url": "/app/salary-slip/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": "loan",
+  "label": "Loan",
+  "link_to": null,
+  "link_type": "",
+  "modified": "2025-10-12 16:02:57.609068",
+  "name": "Loan",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 7,
+  "url": null
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Loan Application",
+  "link_to": "Loan Application",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:02:17.856376",
+  "name": "Loan Application",
+  "parent1": "Loan",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 1,
+  "url": "/app/loan-application/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Loans",
+  "link_to": "Loan",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:02:10.455711",
+  "name": "Loans",
+  "parent1": "Loan",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/loan/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Loan Disbursement",
+  "link_to": "Loan Disbursement",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:02:02.551068",
+  "name": "Loan Disbursement",
+  "parent1": "Loan",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 3,
+  "url": "/app/loan-disbursement/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Loan Repayment",
+  "link_to": "Loan Repayment",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:01:55.292663",
+  "name": "Loan Repayment",
+  "parent1": "Loan",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 4,
+  "url": "/app/loan-repayment/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Loan Product",
+  "link_to": "Loan Product",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:01:48.640018",
+  "name": "Loan Product",
+  "parent1": "Loan",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 5,
+  "url": "/app/loan-product/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": "buying",
+  "label": "Purchase Management",
+  "link_to": null,
+  "link_type": "",
+  "modified": "2025-10-12 16:01:39.420142",
+  "name": "Purchase Management",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 8,
+  "url": null
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Item",
+  "link_to": "Item",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:01:31.774138",
+  "name": "Item",
+  "parent1": "Purchase Management",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 0,
+  "url": "/app/item/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Supplier",
+  "link_to": "Supplier",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:01:23.572724",
+  "name": "Supplier",
+  "parent1": "Purchase Management",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 1,
+  "url": "/app/supplier/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Purchase Invoice",
+  "link_to": "Purchase Invoice",
+  "link_type": "DocType",
+  "modified": "2025-10-12 16:01:16.548235",
+  "name": "Purchase Invoice",
+  "parent1": "Purchase Management",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/purchase-invoice/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Sales Management",
+  "link_to": null,
+  "link_type": "",
+  "modified": "2025-10-12 15:58:48.761782",
+  "name": "Sales Management",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 9,
+  "url": null
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Customer",
+  "link_to": "Customer",
+  "link_type": "DocType",
+  "modified": "2025-10-12 15:58:29.198423",
+  "name": "Customer",
+  "parent1": "Sales Management",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 1,
+  "url": "/app/customer/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Sales Invoice",
+  "link_to": "Sales Invoice",
+  "link_type": "DocType",
+  "modified": "2025-10-12 15:58:12.579659",
+  "name": "Sales Invoice",
+  "parent1": "Sales Management",
+  "roles": [
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   },
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/sales-invoice/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Expense Claim",
+  "link_to": "Expense Claim",
+  "link_type": "DocType",
+  "modified": "2025-10-12 15:57:55.251663",
+  "name": "Expense Claim",
+  "parent1": "HR Management",
+  "roles": [
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   },
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/expense-claim/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Sales Person",
+  "link_to": "Sales Person",
+  "link_type": "DocType",
+  "modified": "2025-10-12 15:57:35.643154",
+  "name": "Sales Person",
+  "parent1": "HR Management",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 3,
+  "url": "/app/sales-person/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Reports",
+  "link_to": null,
+  "link_type": "",
+  "modified": "2025-10-12 15:57:23.707401",
+  "name": "Reports",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 10,
+  "url": null
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Batch-Wise Balance History",
+  "link_to": "Batch-Wise Balance History",
+  "link_type": "Report",
+  "modified": "2025-10-12 15:57:09.587110",
+  "name": "Batch-Wise Balance History",
+  "parent1": "Reports",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 1,
+  "url": "/app/query-report/Batch-Wise Balance History"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Sales Person Commission Summary",
+  "link_to": "Sales Person Commission Summary",
+  "link_type": "Report",
+  "modified": "2025-10-12 15:56:56.545301",
+  "name": "Sales Person Commission Summary",
+  "parent1": "Reports",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/query-report/Sales Person Commission Summary?doc_type=Sales+Invoice&"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Accounts",
+  "link_to": null,
+  "link_type": "",
+  "modified": "2025-10-12 15:56:42.751455",
+  "name": "Accounts",
+  "parent1": null,
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 11,
+  "url": null
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Journal Entry",
+  "link_to": "Journal Entry",
+  "link_type": "DocType",
+  "modified": "2025-10-12 15:56:36.160290",
+  "name": "Journal Entry",
+  "parent1": "Accounts",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 1,
+  "url": "/app/journal-entry/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Payment Entry",
+  "link_to": "Payment Entry",
+  "link_type": "DocType",
+  "modified": "2025-10-12 15:56:27.160159",
+  "name": "Payment Entry",
+  "parent1": "Accounts",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   },
+   {
+    "role": "Branch User"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/payment-entry/view/list"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Roaster",
+  "link_to": null,
+  "link_type": "",
+  "modified": "2025-10-12 15:56:13.415735",
+  "name": "Roaster",
+  "parent1": "Shift Management",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 1,
+  "url": "/hr/roaster"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "General Ledger",
+  "link_to": "General Ledger",
+  "link_type": "Report",
+  "modified": "2025-10-12 15:56:07.374829",
+  "name": "General Ledger",
+  "parent1": "Reports",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 1,
+  "url": "/app/query-report/General Ledger"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Balance Sheet",
+  "link_to": "Balance Sheet",
+  "link_type": "Report",
+  "modified": "2025-10-12 15:56:01.487928",
+  "name": "Balance Sheet",
+  "parent1": "Reports",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/query-report/Balance Sheet"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Profit and Loss Statement",
+  "link_to": "Profit and Loss Statement",
+  "link_type": "Report",
+  "modified": "2025-10-12 15:55:55.277212",
+  "name": "Profit and Loss Statement",
+  "parent1": "Reports",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 2,
+  "url": "/app/query-report/Profit and Loss Statement"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Sales Invoice Trends",
+  "link_to": "Sales Invoice Trends",
+  "link_type": "Report",
+  "modified": "2025-10-12 15:55:49.293784",
+  "name": "Sales Invoice Trends",
+  "parent1": "Reports",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 5,
+  "url": "/app/query-report/Sales Invoice Trends"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Purchase Invoice Trends",
+  "link_to": "Purchase Invoice Trends",
+  "link_type": "Report",
+  "modified": "2025-10-12 15:55:41.981030",
+  "name": "Purchase Invoice Trends",
+  "parent1": "Reports",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 5,
+  "url": "/app/query-report/Purchase Invoice Trends"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Customer Ledger Summary",
+  "link_to": "Customer Ledger Summary",
+  "link_type": "Report",
+  "modified": "2025-10-12 15:55:36.060862",
+  "name": "Customer Ledger Summary",
+  "parent1": "Reports",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   }
+  ],
+  "serial": 6,
+  "url": "/app/query-report/Customer Ledger Summary"
+ },
+ {
+  "doc_view": "List",
+  "docstatus": 0,
+  "doctype": "Sidebar Pages",
+  "icon": null,
+  "label": "Supplier Ledger Summary",
+  "link_to": "Supplier Ledger Summary",
+  "link_type": "Report",
+  "modified": "2025-10-12 15:55:25.983483",
+  "name": "Supplier Ledger Summary",
+  "parent1": "Reports",
+  "roles": [
+   {
+    "role": "Central Branch Manager"
+   },
+   {
+    "role": "Branch Manager"
+   }
+  ],
+  "serial": 7,
+  "url": "/app/query-report/Supplier Ledger Summary"
+ }
+]

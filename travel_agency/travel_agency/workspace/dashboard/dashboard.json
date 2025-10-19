@@ -1,0 +1,94 @@
+{
+ "app": "travel_agency",
+ "charts": [
+  {
+   "chart_name": "Profit and Loss",
+   "label": "Profit and Loss"
+  },
+  {
+   "chart_name": "Bank Balance",
+   "label": "Bank Balance"
+  },
+  {
+   "chart_name": "Claims by Type",
+   "label": "Claims by Type"
+  },
+  {
+   "chart_name": "Outgoing Salary",
+   "label": "Outgoing Salary"
+  },
+  {
+   "chart_name": "Employees by Branch",
+   "label": "Employees by Branch"
+  },
+  {
+   "chart_name": "Loan Application Statuses",
+   "label": "Loan Application Statuses"
+  }
+ ],
+ "content": "[{\"id\":\"v6jLGpMN5f\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Annual Sales\",\"col\":4}},{\"id\":\"T2E8cfSLvP\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total Stock Value\",\"col\":4}},{\"id\":\"NosUa_iz81\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Annual Purchase\",\"col\":4}},{\"id\":\"5mGyzrfnkg\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Active Loans\",\"col\":4}},{\"id\":\"1IlTiXWWwo\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Expense Claims (This Month)\",\"col\":4}},{\"id\":\"MPLnQJKUk6\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Open Loan Applications\",\"col\":4}},{\"id\":\"-_e85RdItJ\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Branches\",\"col\":4}},{\"id\":\"5cxkSqJaMh\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Active Customers\",\"col\":4}},{\"id\":\"tyz08h-y1F\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total Employees\",\"col\":4}},{\"id\":\"YxUTlv0WuA\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"M5y_HBzG8O\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Profit and Loss\",\"col\":12}},{\"id\":\"tIngCVLCaG\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Claims by Type\",\"col\":6}},{\"id\":\"p7iwEmTBIc\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Employees by Branch\",\"col\":6}},{\"id\":\"s_zj4u_hYh\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Loan Application Statuses\",\"col\":6}},{\"id\":\"Me04vqmQ7x\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Bank Balance\",\"col\":6}},{\"id\":\"Z9FJHGiJNq\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Outgoing Salary\",\"col\":12}}]",
+ "creation": "2025-10-09 11:58:46.844661",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "grid",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Dashboard",
+ "link_type": "DocType",
+ "links": [],
+ "modified": "2025-10-10 15:47:03.134830",
+ "modified_by": "Administrator",
+ "module": "Travel Agency",
+ "name": "Dashboard",
+ "number_cards": [
+  {
+   "label": "Annual Sales",
+   "number_card_name": "Annual Sales-1"
+  },
+  {
+   "label": "Expense Claims (This Month)",
+   "number_card_name": "Expense Claims (This Month)"
+  },
+  {
+   "label": "Branches",
+   "number_card_name": "Branches"
+  },
+  {
+   "label": "Active Customers",
+   "number_card_name": "Active Customers"
+  },
+  {
+   "label": "Total Stock Value",
+   "number_card_name": "Total Stock Value"
+  },
+  {
+   "label": "Annual Purchase",
+   "number_card_name": "Annual Purchase-1"
+  },
+  {
+   "label": "Open Loan Applications",
+   "number_card_name": "Open Loan Applications"
+  },
+  {
+   "label": "Total Employees",
+   "number_card_name": "Total Employees"
+  },
+  {
+   "label": "Active Loans",
+   "number_card_name": "Active Loans"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 24.0,
+ "shortcuts": [],
+ "title": "Dashboard",
+ "type": "Workspace"
+}

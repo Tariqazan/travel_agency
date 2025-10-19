@@ -1,9 +1,9 @@
 [project]
-name = "erplagbe_travel_agency"
+name = "travel_agency"
 authors = [
     { name = "ERPLagbe", email = "contact@erplagbe.top"}
 ]
-description = "Travel agency"
+description = "Travel Agency"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
